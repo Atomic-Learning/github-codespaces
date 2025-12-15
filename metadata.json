@@ -14,11 +14,12 @@
         "github_introduction"
     ],
     "related": [
+        "github-opening-codespaces",
         "github-limited-open-codespaces",
-        "atomic-learning-codespaces",
-        "vscode-introduction",
         "github-downloading-from-codespace",
         "github-syncing-codespace-changes",
-        "github-forking-from-codespace"
+        "github-forking-from-codespace",
+        "atomic-learning-codespaces",
+        "vscode-introduction"
     ]
 }
