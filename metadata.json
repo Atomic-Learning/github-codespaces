@@ -19,8 +19,9 @@
         "github-downloading-from-codespace",
         "github-syncing-codespace-changes",
         "github-forking-from-codespace",
-        "atomic-learning-codespaces",
+        "linux-introduction",
         "vscode-introduction",
-        "vs-code-extensions"
+        "vs-code-extensions",
+        "atomic-learning-codespaces"
     ]
 }
