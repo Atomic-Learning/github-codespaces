@@ -1,22 +1,24 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "GitHub: Codespaces",
+    "slug": "github-codespaces",
+    "description": "Introduces GitHub Codespaces, a cloud-based development environment.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "github",
+        "software-development"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "github_introduction"
     ],
     "related": [
-        "",
-        ""
+        "github-limited-open-codespaces",
+        "atomic-learning-codespaces",
+        "vscode-introduction",
+        "github-downloading-from-codespace",
+        "github-syncing-codespace-changes",
+        "github-forking-from-codespace"
     ]
 }
