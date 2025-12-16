@@ -15,7 +15,7 @@
     ],
     "related": [
         "github-opening-codespaces",
-        "github-limited-codespace-sessions",
+        "github-managing-codespaces",
         "github-downloading-from-codespace",
         "github-syncing-codespace-changes",
         "github-forking-from-codespace",
